@@ -256,7 +256,7 @@ int DoublyCLL<T>::Count()
 //////////////////////////////////////////////////////////
 //
 //Function Name:    int SearchFirstOccurance
-//Description:      return first occurance of element from Doublu Circular Linked List
+//Description:      return first occurance of element from Doubly Circular Linked List
 //Input:            T
 //Output:           int
 //Date:             12/06/2022
