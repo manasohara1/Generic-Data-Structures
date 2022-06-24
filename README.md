@@ -1,7 +1,7 @@
 # Generic-Data-Structures
 The identical version of STL(Standard Template Libraries) in C++ and Collections Framework in JAVA
 
-#In this project, I have implemented : 
+# In this project, I have implemented : 
 1) Singly Linear Linked List
 2) Doubly Linear Linked List
 3) Singly Circular Linked List
@@ -9,7 +9,7 @@ The identical version of STL(Standard Template Libraries) in C++ and Collections
 5) Stack
 6) Queue
 
-#In this project, below functionalities are there:
+# In this project, below functionalities are there:
 
 1) InsertFirst
 2) InsertLast
